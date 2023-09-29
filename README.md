@@ -45,8 +45,9 @@ A loja deverá ser localizada o mais próximo do cliente receberá a ordem atrav
 
 Há dois projetos do desenvolvimento do software identificados aqui:
 
-primeiro é um sistema de software para o atendimento do pedido e para encontrar localização da fábrica da pizza mais próxima do cliente para fazer a entrega; e
-segundo é um sistema de software para suportar operações da fábrica de pizzas.
+• primeiro é um sistema de software para o atendimento do pedido e para encontrar localização da fábrica da pizza mais próxima do cliente para fazer a entrega.
+
+•segundo é um sistema de software para suportar operações da fábrica de pizzas.
 
 # Documentação
 
