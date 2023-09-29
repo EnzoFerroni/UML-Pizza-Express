@@ -21,7 +21,7 @@
 - [Diagrama de classes](#diagrama-orientado-objetos)
 - [Diagrama de componentes](#diagrama-estrutura-componente)
 - [Decisões de arquitetura](#decisões-de-arquitetura)
-- [Diagrama de implantação](#diagrama-de-hardware-software)
+- [Diagrama de implantação](#diagrama-de-implantação)
 - [Referências](#referências)
 
 
