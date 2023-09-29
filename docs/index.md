@@ -12,8 +12,8 @@
 
 **Conteúdo**
 
-- [Autores](#nome-alunos)
-- [Descrição do projeto](#introdução-do-projeto)
+- [Autores](#autores)
+- [Descrição do projeto](#descrição-do-projeto)
 - [Análise de requisitos funcionais e não-fucionais](#descrição-dos-requisitos)
 - [Diagrama de casos de uso](#diagrama-de-comportamento-atores)
 - [Descrição dos casos de uso](#descrição-das-funcões)
