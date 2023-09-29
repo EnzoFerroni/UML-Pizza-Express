@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*&lt;UML-Pizza-Express&gt;*
+*UML-Pizza-Express*
 </center></font>
 
 >*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
@@ -36,7 +36,7 @@
 
 # Descrição do projeto
 
-*&lt;A Pizza-Express é uma cadeia de 40 lojas de fast-food e entrega em casa.
+A Pizza-Express é uma cadeia de 40 lojas de fast-food e entrega em casa.
 
 Pizza-Express tem perdido recentemente 30% do rendimento de vendas devido a um problema em seu negócio da entrega. Atribuem este problema a seu concorrente principal que promoveu um programa que garante o serviço de entrega em 30 minutos, desde a entrada da ordem de serviço até a entrega na casa do cliente (delivery).
 
@@ -56,8 +56,9 @@ A loja deverá ser localizada o mais próximo do cliente receberá a ordem atrav
 
 Há dois projetos do desenvolvimento do software identificados aqui:
 
-primeiro é um sistema de software para o atendimento do pedido e para encontrar localização da fábrica da pizza mais próxima do cliente para fazer a entrega; e
-segundo é um sistema de software para suportar operações da fábrica de pizzas.&gt;*
+• primeiro é um sistema de software para o atendimento do pedido e para encontrar localização da fábrica da pizza mais próxima do cliente para fazer a entrega.
+
+• segundo é um sistema de software para suportar operações da fábrica de pizzas.
 
 # Análise de requisitos funcionais e não-funcionais
 *&lt;Descrição dos requisitos&gt;*
