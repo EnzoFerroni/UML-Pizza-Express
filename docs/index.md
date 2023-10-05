@@ -67,6 +67,11 @@ Há dois projetos do desenvolvimento do software identificados aqui:
 
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
 
+![Untitled](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/143665284/eabece67-3f02-4240-a8cd-34584231f14c)
+![Untitled](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/143665284/5195fa99-d1a4-4121-a63c-70364026e642)
+
+
+
 # Descrição dos casos de uso
 
 *&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
