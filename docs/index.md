@@ -65,7 +65,7 @@ Há dois projetos do desenvolvimento do software identificados aqui:
 
 # Diagrama de casos de uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+*&lt;Diagrama para visualizar o comportamento dos atores&gt;*  
 
 ![Untitled](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/143665284/eabece67-3f02-4240-a8cd-34584231f14c)
 ![Untitled](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/143665284/5195fa99-d1a4-4121-a63c-70364026e642)
@@ -74,23 +74,25 @@ Há dois projetos do desenvolvimento do software identificados aqui:
 
 # Descrição dos casos de uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
-https://docs.google.com/document/d/1c6MQubV-Kpq2H1d02yeWLBM33FS5-o8RpMQfAHxgn1w/edit?usp=sharing
+*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*  
+Caso de uso Central:  
+https://docs.google.com/document/d/1c6MQubV-Kpq2H1d02yeWLBM33FS5-o8RpMQfAHxgn1w/edit?usp=sharing  
+Caso de uso Franquia:  
 https://docs.google.com/document/d/1UlD-0FzvBjA1x71WBz3YVZI_sw02nXXHq2GDIw3n5JE/edit?usp=sharing
 
 # Diagrama de sequencia
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
-*Caso de uso Central:*
+*&lt;Diagrama de ordem e interação dos objetos&gt;*  
+*Caso de uso Central:*  
 
 ![SC01-Realizar Cadastro](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/143665284/abaef047-6486-45fe-a7dc-02d51bd606f4)
 ![SC02-Realizar Pedido](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/143665284/95f649ac-8d44-4ebd-addf-a100479d6b27)
 
 ![SC08-Valida pedido](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/143665284/a4f40f8c-2774-4b82-9296-62fe988ceec9)
 ![SC09-Verificar Franquia Proxima](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/143665284/c700fe82-53f9-4c8c-9b56-dee617eaea60)
-![SC10-Encaminhar Pedido](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/143665284/358dd96a-3219-4d79-86a6-1a410665a24b)
+![SC10-Encaminhar Pedido](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/143665284/358dd96a-3219-4d79-86a6-1a410665a24b)  
 
-*Caso de uso Franquia:*
+*Caso de uso Franquia:*  
 ![SF03-Receber Pedido](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/143665284/7b40ed1c-1748-474d-b90f-3a8cca79d94f)
 ![SF04-Preparar Pedido](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/143665284/9dec89d1-e33a-4fdc-801a-f78f15c2ec28)
 
