@@ -86,7 +86,6 @@ Sistema Franquia
 ![SC08-Valida Pedido](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/7d4dd88b-79fd-436b-80a0-b0314c3e09e7)
 ![SC09-Verificar Franquia Próxima](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/54cd052a-e278-437a-bc6d-88e10d036c33)
 ![SC10-Encaminhar Pedido](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/3dd8e6e8-d641-43f7-8694-a2a0683f8fc9)
-https://docs.google.com/document/d/1c6MQubV-Kpq2H1d02yeWLBM33FS5-o8RpMQfAHxgn1w/edit?usp=sharing  
 
 
 **Caso de uso Franquia:**  
@@ -95,7 +94,6 @@ https://docs.google.com/document/d/1c6MQubV-Kpq2H1d02yeWLBM33FS5-o8RpMQfAHxgn1w/
 ![SF02 - Encaminhar Pedido](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/eb4b2b90-049c-400e-a5c3-6a83c73e603c)
 ![SF03 - Receber Pedido](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/d55c0505-5baf-4f5b-b289-ec01a523dd29)
 ![SF04 - Preparar Pedido](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/39461be3-3c33-495f-82d9-0528059fae16)
-https://docs.google.com/document/d/1UlD-0FzvBjA1x71WBz3YVZI_sw02nXXHq2GDIw3n5JE/edit?usp=sharing
 
 
 # Diagrama de sequencia
@@ -139,4 +137,5 @@ https://docs.google.com/document/d/1UlD-0FzvBjA1x71WBz3YVZI_sw02nXXHq2GDIw3n5JE/
 
 # Referências
 
-*&lt;Lista de referências&gt;*
+https://docs.google.com/document/d/1c6MQubV-Kpq2H1d02yeWLBM33FS5-o8RpMQfAHxgn1w/edit?usp=sharing 
+https://docs.google.com/document/d/1UlD-0FzvBjA1x71WBz3YVZI_sw02nXXHq2GDIw3n5JE/edit?usp=sharing
