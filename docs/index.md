@@ -40,7 +40,29 @@ O segundo sistema envolve as operações de produção e entrega das pizzas. Al�
 
 
 # Análise de requisitos funcionais e não-funcionais
-*&lt;Descrição dos requisitos&gt;*
+**Requisitos Funcionais**
+
+Sistema Central
+1.	O sistema deve ser capaz de registrar o cadastro de um novo cliente
+2.	O sistema deve permitir que o cliente realize um pedido, tendo como opção adicionar ou remover itens
+3.	O sistema deve possibilitar que o cliente finalize o pedido exigindo que o cliente faça o pagamento
+4.	Tanto o cliente quanto o atendente devem ser capazes de realizar o login
+5.	O atendente deve ter a possibilidade de visualizar e validade o pedido feito pelo cliente
+6.	O sistema deve permitir que o atendente busque a loja mais próxima do pedido realizado em função do endereço presente no cadastro do cliente
+7.	O atendente deve ser a possibilidade de encaminhar as informações do pedido para a loja que deverá realiza-lo
+   
+Sistema Franquia
+1.	O sistema deve informar o pedido que será preparado
+2.	O funcionário deve ter a possibilidade de preparar o pedido
+3.	O sistema deve ser capaz de enviar um chamado de que o pedido está pronto para a empresa de delivery 
+4.	O delivery deve receber um aviso de que o pedido está pronto para entrega
+   
+**Requisitos Não Funcionais**
+1.	O sistema precisa responder o mais rápido possível
+2.	O sistema deve ser possível de acessá-lo via web e mobile
+3.	A interface deve apresentar cores e contrastes que garantem acessibilidade para usuários com daltonismo
+4.	O sistema deve ser seguro de maneira que um cliente não tenha acesso a informação de cadastro de outro cliente
+5.	A interface deve ser intuitiva e simples para utilizar
 
 
 # Diagrama de casos de uso
