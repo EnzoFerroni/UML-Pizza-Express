@@ -32,29 +32,9 @@ UML-Pizza-Express
 
 # Descrição do projeto
 
-A Pizza-Express é uma cadeia de 40 lojas de fast-food e entrega em casa.
-
-Pizza-Express tem perdido recentemente 30% do rendimento de vendas devido a um problema em seu negócio da entrega. Atribuem este problema a seu concorrente principal que promoveu um programa que garante o serviço de entrega em 30 minutos, desde a entrada da ordem de serviço até a entrega na casa do cliente (delivery).
-
-Pizza-Express anuncia a entrega em uma hora.
-
-Pizza-Express usa atualmente computadores para armazenar as operações e as funções usuais do negócio, mas não auxiliam nas funções para processar a entrega dos pedidos dos seus clientes.
-
-Elonn Muske, o gerente de sistemas de informação é o encarregado para desenvolver uma aplicação do software para identificar a localização de lojas de pizza Pizza-Express mais próxima do cliente e para criar o sistema de software necessário para operá-las.
-
-O patrocinador deste projeto, a empresa Papa-Léguas Delivery, disse que o futuro da Pizza-Express depende deste projeto.
-
-A equipe deverá investigar uma opção para entregar a pizza em menos de 30 minutos.
-
-A sua idéia é montar lojas de pizza Pizza-Express que não teriam nenhum espaço de varejo, pois a sua função é somente receber ordens, preparar e entregar as pizzas.
-
-A loja deverá ser localizada o mais próximo do cliente receberá a ordem através de uma central, processará, e entregará a ordem dentro de 10 ou 15 minutos da entrada do pedido.
-
-Há dois projetos do desenvolvimento do software identificados aqui:
-
-• primeiro é um sistema de software para o atendimento do pedido e para encontrar localização da fábrica da pizza mais próxima do cliente para fazer a entrega.
-
-• segundo é um sistema de software para suportar operações da fábrica de pizzas.
+A empresa Pizza-Express busca atualizar seu sistema de forma que o sistema de entrega seja capaz de realizá-las em menos de 30 minutos. É importante ressaltar que o modelo das lojas não possui espaço de varejo, ou seja, elas apenas produzem as pizzas e realizam as entregas.
+Por ser uma rede de lojas, a Pizza-Express necessita de um sistema central, responsável pelo atendimento ao cliente e localizar a loja mais próxima do mesmo para a produção e entrega do pedido. Uma vez que o pedido foi realizado, a central precisa notificar a loja a respeito desse pedido e o local de entrega.
+O segundo sistema envolve as operações de produção e entrega das pizzas. Além de receber informações do sistema central e realizar a produção das pizzas, o sistema deve entrar em contato com o delivery, que será realizado pela empresa patrocinadora do projeto (Papa-Léguas Delivery).
 
 
 # Análise de requisitos funcionais e não-funcionais
@@ -80,7 +60,7 @@ https://docs.google.com/document/d/1UlD-0FzvBjA1x71WBz3YVZI_sw02nXXHq2GDIw3n5JE/
 
 *Caso de uso Central:*  
 
-![SC01-Realizar Cadastro](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/143665284/abaef047-6486-45fe-a7dc-02d51bd606f4)
+![SC01-Realizar Cadastro](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/5f0c2fcb-0344-4526-8a50-8e46cdb82448)
 ![SC02-Realizar Pedido](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/143665284/95f649ac-8d44-4ebd-addf-a100479d6b27)
 ![SC03-Finalizar Pedido](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/06e9c2ad-16b2-43de-ab21-b0b722b66f3f)
 ![SC04-Realizar Pagamento](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/c364afa3-31e5-4b1a-bf3e-46053fdfa6cb)
