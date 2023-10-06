@@ -33,7 +33,9 @@ UML-Pizza-Express
 # Descrição do projeto
 
 A empresa Pizza-Express busca atualizar seu sistema de forma que o sistema de entrega seja capaz de realizá-las em menos de 30 minutos. É importante ressaltar que o modelo das lojas não possui espaço de varejo, ou seja, elas apenas produzem as pizzas e realizam as entregas.
+
 Por ser uma rede de lojas, a Pizza-Express necessita de um sistema central, responsável pelo atendimento ao cliente e localizar a loja mais próxima do mesmo para a produção e entrega do pedido. Uma vez que o pedido foi realizado, a central precisa notificar a loja a respeito desse pedido e o local de entrega.
+
 O segundo sistema envolve as operações de produção e entrega das pizzas. Além de receber informações do sistema central e realizar a produção das pizzas, o sistema deve entrar em contato com o delivery, que será realizado pela empresa patrocinadora do projeto (Papa-Léguas Delivery).
 
 
