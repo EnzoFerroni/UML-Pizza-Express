@@ -6,9 +6,6 @@
 UML-Pizza-Express
 </center></font>
 
->*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
-
->*Observação 2: O índice abaixo não precisa ser editado se você utilizar o Visual Studio Code com a extensão **Markdown All in One**. Essa extensão atualiza o índice automaticamente quando o arquivo é salvo.*
 
 **Conteúdo**
 
@@ -74,6 +71,7 @@ Há dois projetos do desenvolvimento do software identificados aqui:
 
 Caso de uso Central:  
 https://docs.google.com/document/d/1c6MQubV-Kpq2H1d02yeWLBM33FS5-o8RpMQfAHxgn1w/edit?usp=sharing  
+
 Caso de uso Franquia:  
 https://docs.google.com/document/d/1UlD-0FzvBjA1x71WBz3YVZI_sw02nXXHq2GDIw3n5JE/edit?usp=sharing
 
@@ -94,6 +92,7 @@ https://docs.google.com/document/d/1UlD-0FzvBjA1x71WBz3YVZI_sw02nXXHq2GDIw3n5JE/
 ![SC10-Encaminhar Pedido](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/143665284/358dd96a-3219-4d79-86a6-1a410665a24b)  
 
 *Caso de uso Franquia:*  
+
 ![SF01-Receber Chamado para Entrega](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/05247167-bda7-41e0-94fc-237823a6e8a7)
 ![SF02-Encaminhar Pedido para Delivery](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/1bcd5716-8955-475e-8302-526e7e49f196)
 ![SF03-Receber Pedido](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/143665284/7b40ed1c-1748-474d-b90f-3a8cca79d94f)
@@ -106,7 +105,7 @@ https://docs.google.com/document/d/1UlD-0FzvBjA1x71WBz3YVZI_sw02nXXHq2GDIw3n5JE/
 
 # Diagrama de Componentes
 
-*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software
+*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software&gt;*
 
 # Decisões de arquitetura
 
