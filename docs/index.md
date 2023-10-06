@@ -91,6 +91,8 @@ https://docs.google.com/document/d/1UlD-0FzvBjA1x71WBz3YVZI_sw02nXXHq2GDIw3n5JE/
 ![SC10-Encaminhar Pedido](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/143665284/358dd96a-3219-4d79-86a6-1a410665a24b)  
 
 *Caso de uso Franquia:*  
+![SF01-Receber Chamado para Entrega](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/05247167-bda7-41e0-94fc-237823a6e8a7)
+![SF02-Encaminhar Pedido para Delivery](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/1bcd5716-8955-475e-8302-526e7e49f196)
 ![SF03-Receber Pedido](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/143665284/7b40ed1c-1748-474d-b90f-3a8cca79d94f)
 ![SF04-Preparar Pedido](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/143665284/9dec89d1-e33a-4fdc-801a-f78f15c2ec28)
 
