@@ -74,10 +74,27 @@ Sistema Franquia
 
 # Descrição dos casos de uso
 
-Caso de uso Central:  
+**Caso de uso Central:**  
+
+![SC01-Realizar Cadastro](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/70b152ad-fbee-42b2-8e6f-bde537728093)
+![SC02-Realizar Pedido](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/2b5c8ebc-1914-4fc0-a553-1ecfcdf17e43)
+![SC03-Finalizar Pedido](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/82b7d04e-0f85-42bc-acd6-f0bc87c98ce0)
+![SC04-Realizar Pagamento](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/a16653c6-261a-455e-9402-69f92269a785)
+![SC05-Adicionar Itens](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/98f215bd-f10d-432c-b801-6d3b681bcbe6)
+![SC06-Remover Itens](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/2360777d-70a4-48cd-a743-200843694e4a)
+![SC07-Realizar Login](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/798f917b-5e78-474c-a752-6fcae6c96548)
+![SC08-Valida Pedido](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/7d4dd88b-79fd-436b-80a0-b0314c3e09e7)
+![SC09-Verificar Franquia Próxima](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/54cd052a-e278-437a-bc6d-88e10d036c33)
+![SC10-Encaminhar Pedido](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/3dd8e6e8-d641-43f7-8694-a2a0683f8fc9)
 https://docs.google.com/document/d/1c6MQubV-Kpq2H1d02yeWLBM33FS5-o8RpMQfAHxgn1w/edit?usp=sharing  
 
-Caso de uso Franquia:  
+
+**Caso de uso Franquia:**  
+
+![SF01 - Receber Chamado ](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/a51ac7e4-3371-4a61-a668-f3c8b8382b0f)
+![SF02 - Encaminhar Pedido](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/eb4b2b90-049c-400e-a5c3-6a83c73e603c)
+![SF03 - Receber Pedido](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/d55c0505-5baf-4f5b-b289-ec01a523dd29)
+![SF04 - Preparar Pedido](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/39461be3-3c33-495f-82d9-0528059fae16)
 https://docs.google.com/document/d/1UlD-0FzvBjA1x71WBz3YVZI_sw02nXXHq2GDIw3n5JE/edit?usp=sharing
 
 
