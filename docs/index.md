@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*UML-Pizza-Express*
+UML-Pizza-Express
 </center></font>
 
 >*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
@@ -33,7 +33,6 @@
 * Rodrygo Vasconcellos - 42014492
 
 
-
 # Descrição do projeto
 
 A Pizza-Express é uma cadeia de 40 lojas de fast-food e entrega em casa.
@@ -60,13 +59,16 @@ Há dois projetos do desenvolvimento do software identificados aqui:
 
 • segundo é um sistema de software para suportar operações da fábrica de pizzas.
 
+
 # Análise de requisitos funcionais e não-funcionais
 *&lt;Descrição dos requisitos&gt;*
+
 
 # Diagrama de casos de uso
 
 ![Untitled](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/143665284/eabece67-3f02-4240-a8cd-34584231f14c)
 ![Untitled](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/143665284/5195fa99-d1a4-4121-a63c-70364026e642)
+
 
 # Descrição dos casos de uso
 
@@ -74,6 +76,7 @@ Caso de uso Central:
 https://docs.google.com/document/d/1c6MQubV-Kpq2H1d02yeWLBM33FS5-o8RpMQfAHxgn1w/edit?usp=sharing  
 Caso de uso Franquia:  
 https://docs.google.com/document/d/1UlD-0FzvBjA1x71WBz3YVZI_sw02nXXHq2GDIw3n5JE/edit?usp=sharing
+
 
 # Diagrama de sequencia
 
