@@ -63,6 +63,7 @@ Sistema Franquia
 3.	A interface deve apresentar cores e contrastes que garantem acessibilidade para usuários com daltonismo
 4.	O sistema deve ser seguro de maneira que um cliente não tenha acesso a informação de cadastro de outro cliente
 5.	A interface deve ser intuitiva e simples para utilizar
+6.	A interface deve conter elementos sofisticados e dinâmicos
 
 
 # Diagrama de casos de uso
