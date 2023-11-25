@@ -121,19 +121,20 @@ Sistema Franquia
 
 # Diagrama de classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![image](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/5edf351d-2fe3-4373-8b09-dcbd6099e3f1)
 
 # Diagrama de Componentes
 
-*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software&gt;*
+![image](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/79fb6ce3-4bbe-4f27-a642-29998d2007c1)
 
 # Decisões de arquitetura
+Os servidores terão como sistema operacional Linux por conta dele ser bem adaptado para aplicações em nuvem e também projetado para ser estável e seguro. Usaremos Python que é uma linguagem de alto nível e fácil de aprender e usar oque se torna ideal para empresa onde temos desenvolvedores com diferentes níveis de experiência. O banco de dados nuvem será do tipo relacional o Amazon Relational Database Service(RDS), ele é ideal para armazenar dados estruturados, como os pedidos, informações dos clientes, estoque, etc. Nosso banco de dados físico também será do tipo relacional e guardará informções sensíveis como, cartão de crédito e o histórico de pedidos. Teremos um Firewall stateful que vai proteger todo o sistema da central de ataques externos, ele será configurado apenas para permitir o tráfego necessário para a operação do sistema. O roteador é necessário para conectar o sistema à internet, ele deverá ser configurado para permitir apenas dispsitivos autorizados terem aceso à internet. Nas estações de trabalho teremos computadores com aplicativos que serão usados para gerenciar pedidos, gerenciar estoque, para se comunicar com outras partes da empresa, como as lojas e o delivery, etc. As estações devem ser seguras tendo assim um firewall e um antivirus.
 
-*&lt;Descrever a infraestrutura escolhida para arquitetura do projeto&gt;*
+![Modelo de arquitetura](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/79a6895d-d82a-4ac1-b903-d4d0aaca17f0)
 
 # Diagrama de implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![image](https://github.com/EnzoFerroni/UML-Pizza-Express/assets/125482399/9e8f1c3b-481f-43b9-ad15-6606a11186cc)
 
 # Referências
 
