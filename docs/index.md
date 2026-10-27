@@ -24,10 +24,10 @@ UML-Pizza-Express
 
 # Autores
 
-* Enzo Ferroni - 32318014
-* Gabriel Pastorelli - 32361513
-* Rafael Neves - 32344317
-* Rodrygo Vasconcellos - 42014492
+* Enzo Ferroni
+* Gabriel Pastorelli
+* Rafael Neves
+* Rodrygo Vasconcellos
 
 
 # Descrição do projeto

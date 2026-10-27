@@ -1,41 +1,58 @@
-<h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
+# UML Pizza Express
 
-# Projeto: *UML-Pizza-Express*
+[![UML](https://img.shields.io/badge/UML-modeling-FABD14)](https://www.uml.org)
+[![GitHub Pages](https://img.shields.io/badge/docs-GitHub%20Pages-222222?logo=githubpages&logoColor=white)](https://enzoferroni.github.io/UML-Pizza-Express/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE.md)
 
-# Grupo: *EGR*
+Requirements and UML design for a pizza delivery chain that routes each order to the nearest kitchen and delivers in under 30 minutes.
 
-# Descrição
+## Table of Contents
 
-A Pizza-Express é uma cadeia de 40 lojas de fast-food e entrega em casa.
+- [About](#about)
+- [Case Study](#case-study)
+- [Contents](#contents)
+- [Team](#team)
+- [License](#license)
 
-Pizza-Express tem perdido recentemente 30% do rendimento de vendas devido a um problema em seu negócio da entrega. Atribuem este problema a seu concorrente principal que promoveu um programa que garante o serviço de entrega em 30 minutos, desde a entrada da ordem de serviço até a entrega na casa do cliente (delivery).
+## About
 
-Pizza-Express anuncia a entrega em uma hora.
+Software modeling project for a UML course at Universidade Presbiteriana Mackenzie
+(2023). The repository was created from the course template
+[profdscrodrigo/UML-Classroom-FCI](https://github.com/profdscrodrigo/UML-Classroom-FCI);
+the case analysis and every diagram were produced by the team. The documentation is
+in Portuguese and is published at
+**[enzoferroni.github.io/UML-Pizza-Express](https://enzoferroni.github.io/UML-Pizza-Express/)**.
 
-Pizza-Express usa atualmente computadores para armazenar as operações e as funções usuais do negócio, mas não auxiliam nas funções para processar a entrega dos pedidos dos seus clientes.
+## Case Study
 
-Elonn Muske, o gerente de sistemas de informação é o encarregado para desenvolver uma aplicação do software para identificar a localização de lojas de pizza Pizza-Express mais próxima do cliente e para criar o sistema de software necessário para operá-las.
+Pizza-Express, a chain of 40 fast-food stores, lost 30% of its revenue after a
+competitor started guaranteeing faster deliveries. The proposed answer is a network of
+delivery-only kitchens placed close to customers, fed by a central ordering system.
+Two systems were modeled:
 
-O patrocinador deste projeto, a empresa Papa-Léguas Delivery, disse que o futuro da Pizza-Express depende deste projeto.
+- **Central system:** customer sign-up and login, ordering and payment, and finding the
+  kitchen closest to the delivery address.
+- **Franchise system:** receiving orders, preparing them and notifying the delivery
+  partner when an order is ready.
 
-A equipe deverá investigar uma opção para entregar a pizza em menos de 30 minutos.
+## Contents
 
-A sua idéia é montar lojas de pizza Pizza-Express que não teriam nenhum espaço de varejo, pois a sua função é somente receber ordens, preparar e entregar as pizzas.
+The [documentation](docs/index.md) covers:
 
-A loja deverá ser localizada o mais próximo do cliente receberá a ordem através de uma central, processará, e entregará a ordem dentro de 10 ou 15 minutos da entrada do pedido.
+- Functional and non-functional requirements
+- Use case diagram and use case descriptions
+- Sequence diagram
+- Class diagram
+- Component diagram and architecture decisions
+- Deployment diagram
 
-Há dois projetos do desenvolvimento do software identificados aqui:
+## Team
 
-• primeiro é um sistema de software para o atendimento do pedido e para encontrar localização da fábrica da pizza mais próxima do cliente para fazer a entrega.
+- Enzo Ferroni ([@EnzoFerroni](https://github.com/EnzoFerroni))
+- Gabriel Pastorelli
+- Rafael Neves
+- Rodrygo Vasconcellos
 
-•segundo é um sistema de software para suportar operações da fábrica de pizzas.
+## License
 
-# Documentação
-
-Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o seu conteúdo é publicado em **[https://<usuario>.github.io/UML-Classroom-FCI/blob/master/docs/index.md](https://enzoferroni.github.io/UML-Pizza-Express/)**
-
-
-
-# Releases
-
-Deverá ser publicado um release ao término de cada entrega do projeto.
+Released under the [MIT License](LICENSE.md), inherited from the course template.
